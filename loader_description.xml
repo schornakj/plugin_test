@@ -1,0 +1,5 @@
+<library path="loader_derived">
+  <class type="plugin_test::LoaderDerived"
+         base_class_type="plugin_test::LoaderBase">
+  </class>
+</library>
